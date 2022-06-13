@@ -11,7 +11,6 @@ A maven plugin to generate checksum of project resources and expose it as projec
 		<artifactId>checksum-maven-plugin</artifactId>
 		<version>0.0.3-SNAPSHOT</version>
 		<executions>
-
 			<execution>
 			    	<id>checksum css</id>
 				<phase>process-resources</phase>
@@ -42,8 +41,8 @@ A maven plugin to generate checksum of project resources and expose it as projec
 				</configuration>
 		       </execution>
 		</executions>
-
 	</plugin>
+	
   </plugins>
   
   ...
