@@ -2,7 +2,7 @@
 A maven plugin to generate checksum of project resources and expose it as project property to be used by other plugins.
 
 ### Usage Example
-<code>
+```
 <build>
 		<plugins>
       
@@ -48,4 +48,5 @@ A maven plugin to generate checksum of project resources and expose it as projec
   
   ...
 </build>
-</code>
+```
+
